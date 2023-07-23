@@ -3,7 +3,7 @@
 Welcome to our **"DP Is Easy" - Dynamic Programming Problem Solving Playlist**! 🎉 This repository contains a curated collection of 50 of the most important dynamic programming problems, ranging from basic to advanced levels. Whether you are a beginner or an experienced programmer, this playlist is designed to help you master the art of dynamic programming and sharpen your problem-solving skills.
 
 ## YouTube Playlist 📺
-You can watch the video explanations and tutorials for each problem on our [YouTube channel](insert_your_youtube_playlist_link_here).
+You can watch the video explanations and tutorials for each problem on our [YouTube channel](https://www.youtube.com/playlist?list=PLUqxU4Bt5RBgCTeBT1j5di3hVQiWCFMtw).
 
 ## Problem Descriptions 🔍
 Each problem comes with detailed explanations, code implementations (in various programming languages), and step-by-step breakdowns of the thought process behind the solutions.

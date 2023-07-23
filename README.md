@@ -15,4 +15,4 @@ Each problem comes with detailed explanations, code implementations (in various 
 
 ## Contributing 💻
 - We welcome contributions to this repository! If you have a solution to a problem in a different programming language, feel free to raise a pull request after forking the repository
-- If you don't know how to contribute, check out my comprehensive guide on the same - https://www.youtube.com/live/WSjwFQYdVQA?feature=share
+- If you don't know how to contribute, check out my comprehensive guide on the same - (Click Me!)[https://www.youtube.com/live/WSjwFQYdVQA?feature=share]
